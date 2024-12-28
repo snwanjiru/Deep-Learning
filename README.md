@@ -34,4 +34,29 @@ While the predictions are reasonably close, there’s room for improvement in re
 
 ---
 
-## **Folder Structure**
+## **Technologies Used**
+
+- **Frameworks**: TensorFlow, Keras  
+- **Programming**: Python  
+- **Data Manipulation**: NumPy, Pandas 
+
+## **What’s Next?**
+
+-Add more training data to improve model generalization.
+-Experiment with other architectures to further reduce MAE and loss.
+-Implement pre- and post-processing steps for better accuracy.
+-Explore deployment options for practical use.
+
+## **Contributing**
+I’d love to hear your ideas! Feel free to fork the repository, make changes, and submit a pull request. Constructive feedback is always welcome. 😊
+
+## **License**
+
+This project is licensed under the MIT License. Check out the LICENSE file for details.
+
+## **Contact**
+
+If you have questions or want to collaborate, feel free to reach out:
+Author: Sharon Wanjiru
+Email: [snwanjiru03@Gmail.com]
+
