@@ -10,6 +10,7 @@ This project uses a **U-Net deep learning model** which is a convolutional neura
 
 ## **Key Features**
 
+-Publicly available microscopy images of HT29 cells (6 images) and ground truth information (https://bbbc.broadinstitute.org/BBBC001) was used
 - **U-Net Model**: A well-known architecture designed for segmentation tasks, adapted here for cell count predictions.  
 - **Performance Tracking**: Includes **Mean Absolute Error (MAE)** and **loss metrics** to evaluate accuracy.  
 - **Validation**: Compares predictions with manual counts to ensure reliability.  
