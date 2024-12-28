@@ -40,6 +40,8 @@ While the predictions are reasonably close, there’s room for improvement in re
 - **Programming**: Python  
 - **Data Manipulation**: NumPy, Pandas 
 
+---
+
 ## **What’s Next?**
 
 -Add more training data to improve model generalization.
@@ -47,12 +49,18 @@ While the predictions are reasonably close, there’s room for improvement in re
 -Implement pre- and post-processing steps for better accuracy.
 -Explore deployment options for practical use.
 
+---
+
 ## **Contributing**
 I’d love to hear your ideas! Feel free to fork the repository, make changes, and submit a pull request. Constructive feedback is always welcome. 😊
+
+---
 
 ## **License**
 
 This project is licensed under the MIT License. Check out the LICENSE file for details.
+
+---
 
 ## **Contact**
 
